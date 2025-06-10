@@ -1,0 +1,11 @@
+{
+    "mcpServers":{
+        "Todo Application": {
+      "command": "C:/Users/USER/Documents/Shotik_AI/mcp_server/.venv/Scripts/python.exe",
+      "args": [
+        "C:/Users/USER/Documents/Shotik_AI/mcp_server/main_2.py"
+      ],
+      "description": "My Todo App MCP server"
+    }
+}
+}

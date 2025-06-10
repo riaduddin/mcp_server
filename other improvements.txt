@@ -1,0 +1,2 @@
+4. Optional: Update by Position (let me know if you want this too)
+It’s similar to the delete function, but calls PUT instead of DELETE.
